@@ -447,6 +447,13 @@ ul.callbacks_tabs li {
     background: #000;
     padding: 2em 1em;
     width: 410px;
+   margin-right: 5px
+}
+.banner-text3 {
+    background: #000;
+    padding: 2em 1em;
+    width: 410px;
+    margin-right: 5px
 }
 
 .banner-text-top {
